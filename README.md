@@ -1,36 +1,35 @@
-# Level-0-Plan
 
-# 🎯 C# .NET Track — Level 0 Roadmap
-### 3-Month Learning Plan
+> **3-Month Learning Plan** | From Zero to OOP-Ready
 
 ---
 
-## 📌 Goal
+## 🏁 Goal
 
-> تتعلم C# من الأساس — اللغة كاملة + OOP + Collections + Generics، وتحل exercises على w3resource قبل الـ LINQ.
+Learn C# from scratch — covering the full language fundamentals, OOP, Collections, and Generics, with hands-on exercises from w3resource throughout the journey, before moving on to LINQ.
 
 ---
 
 ## 🗓️ Timeline Overview
 
-| Sprint | الأسابيع | Focus |
-|--------|----------|-------|
-| Sprint 1 | Week 1–2 | C# Basics — Variables + Types + Conditions |
-| Sprint 2 | Week 3–4 | Loops + Arrays |
-| Sprint 3 | Week 5–6 | Strings + Functions + Math + Recursion |
-| Sprint 4 | Week 7–8 | Exceptions + File Handling + Sorting + Regex + DateTime |
-| Sprint 5 | Week 9–10 | OOP Part 1 — Classes + Encapsulation + Constructors + Inheritance + Polymorphism |
-| Sprint 6 | Week 11–12 | OOP Part 2 — Abstraction + Interface + Collections + Generics |
+| Sprint   | Duration    | Focus                                                                              |
+|----------|-------------|------------------------------------------------------------------------------------|
+| Sprint 1 | Week 1–2    | C# Basics — Variables, Types, Conditions                                           |
+| Sprint 2 | Week 3–4    | Loops + Arrays                                                                     |
+| Sprint 3 | Week 5–6    | Strings + Functions + Math + Recursion                                             |
+| Sprint 4 | Week 7–8    | Exceptions + File Handling + Sorting + Regex + DateTime                            |
+| Sprint 5 | Week 9–10   | OOP Part 1 — Classes, Encapsulation, Constructors, Inheritance, Polymorphism       |
+| Sprint 6 | Week 11–12  | OOP Part 2 — Abstraction, Interfaces, Collections, Generics                        |
 
 ---
 
 ## 🟢 Sprint 1 — C# Basics
-**المدة:** Week 1–2 | 1 Session توجيهية
 
-### 🎯 Goal
-تعرف تكتب C# وتتعامل مع الـ types والـ conditions.
+**Duration:** Week 1–2 &nbsp;|&nbsp; 1 Guided Session
 
-### 📚 Topics
+**Goal:** Write C# confidently and work with types and conditions.
+
+### Topics
+
 - Variables & Data Types (`int`, `double`, `string`, `bool`, `char`)
 - Type Casting & Conversion
 - Operators (Arithmetic, Comparison, Logical)
@@ -38,44 +37,48 @@
 - Conditional Statements (`if`, `else if`, `else`, `switch`)
 - Ternary Operator
 
-### 📝 w3resource Exercises
-| Topic | Link | Target |
-|-------|------|--------|
-| Basic | [104 exercises](https://www.w3resource.com/csharp-exercises/basic/index.php) | أول 50 |
-| Data Types | [11 exercises](https://www.w3resource.com/csharp-exercises/data-types/index.php) | كل الـ 11 |
-| Conditional Statements | [25 exercises](https://www.w3resource.com/csharp-exercises/conditional-statement/index.php) | كل الـ 25 |
+### w3resource Exercises
+
+| Topic                  | Exercises                                                                                    | Target     |
+|------------------------|----------------------------------------------------------------------------------------------|------------|
+| Basic                  | [104 exercises](https://www.w3resource.com/csharp-exercises/basic/index.php)                 | First 50   |
+| Data Types             | [11 exercises](https://www.w3resource.com/csharp-exercises/data-types/index.php)             | All 11     |
+| Conditional Statements | [25 exercises](https://www.w3resource.com/csharp-exercises/conditional-statement/index.php)  | All 25     |
 
 ---
 
 ## 🟡 Sprint 2 — Loops + Arrays
-**المدة:** Week 3–4 | 1 Session توجيهية
 
-### 🎯 Goal
-تتحكم في الـ loops وتشتغل مع الـ arrays.
+**Duration:** Week 3–4 &nbsp;|&nbsp; 1 Guided Session
 
-### 📚 Topics
+**Goal:** Master loops and work with arrays.
+
+### Topics
+
 - `for`, `while`, `do-while`, `foreach`
 - `break` & `continue`
 - Nested Loops + Patterns
 - Arrays (1D, 2D)
 - Array built-in methods (`Sort`, `Reverse`, `Max`, `Min`)
 
-### 📝 w3resource Exercises
-| Topic | Link | Target |
-|-------|------|--------|
-| Basic | [104 exercises](https://www.w3resource.com/csharp-exercises/basic/index.php) | exercises 51–104 (finish) |
-| For Loop | [83 exercises](https://www.w3resource.com/csharp-exercises/for-loop/index.php) | كل الـ 83 |
-| Array | [41 exercises](https://www.w3resource.com/csharp-exercises/array/index.php) | كل الـ 41 |
+### w3resource Exercises
+
+| Topic    | Exercises                                                                             | Target               |
+|----------|---------------------------------------------------------------------------------------|----------------------|
+| Basic    | [104 exercises](https://www.w3resource.com/csharp-exercises/basic/index.php)          | Exercises 51–104     |
+| For Loop | [83 exercises](https://www.w3resource.com/csharp-exercises/for-loop/index.php)        | All 83               |
+| Array    | [41 exercises](https://www.w3resource.com/csharp-exercises/array/index.php)           | All 41               |
 
 ---
 
 ## 🔵 Sprint 3 — Strings + Functions + Math + Recursion
-**المدة:** Week 5–6 | 1 Session توجيهية
 
-### 🎯 Goal
-تشتغل مع الـ strings، تبني functions، وتفهم الـ recursion.
+**Duration:** Week 5–6 &nbsp;|&nbsp; 1 Guided Session
 
-### 📚 Topics
+**Goal:** Work with strings, build functions, and understand recursion.
+
+### Topics
+
 - String methods (`ToUpper`, `Trim`, `Replace`, `Substring`, `Split`, `Contains`)
 - String formatting & interpolation
 - Methods — parameters, return types, overloading
@@ -83,23 +86,25 @@
 - `Math` class (`Pow`, `Sqrt`, `Abs`, `Round`, `Max`)
 - Recursion — base case & recursive case
 
-### 📝 w3resource Exercises
-| Topic | Link | Target |
-|-------|------|--------|
-| String | [68 exercises](https://www.w3resource.com/csharp-exercises/string/index.php) | كل الـ 68 |
-| Function | [10 exercises](https://www.w3resource.com/csharp-exercises/function/index.php) | كل الـ 10 |
-| Math | [24 exercises](https://www.w3resource.com/csharp-exercises/math/index.php) | كل الـ 24 |
-| Recursion | [15 exercises](https://www.w3resource.com/csharp-exercises/recursion/index.php) | كل الـ 15 |
+### w3resource Exercises
+
+| Topic     | Exercises                                                                              | Target  |
+|-----------|----------------------------------------------------------------------------------------|---------|
+| String    | [68 exercises](https://www.w3resource.com/csharp-exercises/string/index.php)           | All 68  |
+| Function  | [10 exercises](https://www.w3resource.com/csharp-exercises/function/index.php)         | All 10  |
+| Math      | [24 exercises](https://www.w3resource.com/csharp-exercises/math/index.php)             | All 24  |
+| Recursion | [15 exercises](https://www.w3resource.com/csharp-exercises/recursion/index.php)        | All 15  |
 
 ---
 
 ## 🟠 Sprint 4 — Exceptions + Files + Sorting + Regex + DateTime
-**المدة:** Week 7–8 | 1 Session توجيهية
 
-### 🎯 Goal
-تكمل باقي topics الأساسيات وتبقى جاهز للـ OOP.
+**Duration:** Week 7–8 &nbsp;|&nbsp; 1 Guided Session
 
-### 📚 Topics
+**Goal:** Complete the remaining core topics and be ready for OOP.
+
+### Topics
+
 - Exception Handling (`try`, `catch`, `finally`, Custom Exceptions)
 - File Handling (`File`, `StreamReader`, `StreamWriter`)
 - Searching & Sorting Algorithms (Linear, Binary, Bubble, Selection)
@@ -108,26 +113,28 @@
 - Structure (`struct`)
 - Stack (`Push`, `Pop`, `Peek`)
 
-### 📝 w3resource Exercises
-| Topic | Link | Target |
-|-------|------|--------|
-| Exception Handling | [13 exercises](https://www.w3resource.com/csharp-exercises/exception-handling/index.php) | كل الـ 13 |
-| File Handling | [15 exercises](https://www.w3resource.com/csharp-exercises/file-handling/index.php) | كل الـ 15 |
-| Searching & Sorting | [11 exercises](https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/index.php) | كل الـ 11 |
-| Regular Expression | [9 exercises](https://www.w3resource.com/csharp-exercises/regular-expression/index.php) | كل الـ 9 |
-| Date Time | [57 exercises](https://www.w3resource.com/csharp-exercises/datetime/index.php) | كل الـ 57 |
-| Structure | [10 exercises](https://www.w3resource.com/csharp-exercises/structure/index.php) | كل الـ 10 |
-| Stack | [27 exercises](https://www.w3resource.com/csharp-exercises/stack/index.php) | كل الـ 27 |
+### w3resource Exercises
+
+| Topic               | Exercises                                                                                                  | Target  |
+|---------------------|------------------------------------------------------------------------------------------------------------|---------|
+| Exception Handling  | [13 exercises](https://www.w3resource.com/csharp-exercises/exception-handling/index.php)                   | All 13  |
+| File Handling       | [15 exercises](https://www.w3resource.com/csharp-exercises/file-handling/index.php)                        | All 15  |
+| Searching & Sorting | [11 exercises](https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/index.php)      | All 11  |
+| Regular Expression  | [9 exercises](https://www.w3resource.com/csharp-exercises/regular-expression/index.php)                    | All 9   |
+| Date Time           | [57 exercises](https://www.w3resource.com/csharp-exercises/datetime/index.php)                             | All 57  |
+| Structure           | [10 exercises](https://www.w3resource.com/csharp-exercises/structure/index.php)                            | All 10  |
+| Stack               | [27 exercises](https://www.w3resource.com/csharp-exercises/stack/index.php)                                | All 27  |
 
 ---
 
 ## 🟣 Sprint 5 — OOP Part 1
-**المدة:** Week 9–10 | 1 Session توجيهية
 
-### 🎯 Goal
-تبني classes صح وتطبق الـ Encapsulation والـ Inheritance والـ Polymorphism.
+**Duration:** Week 9–10 &nbsp;|&nbsp; 1 Guided Session
 
-### 📚 Topics
+**Goal:** Build classes correctly and apply Encapsulation, Inheritance, and Polymorphism.
+
+### Topics
+
 - Classes & Objects
 - Fields, Methods, Properties
 - Constructors (Default, Parameterized, Copy)
@@ -138,25 +145,28 @@
 - Method Overriding — `virtual` / `override`
 - Polymorphism
 
-### 📝 Mini Project
-> حاول تبني mini project بيجمع Classes + Constructors + Inheritance
+### Mini Project
 
-**مثال:** Student Management System
-- `Person` class بيتوارثها `Student`
-- كل student عنده name, age, GPA
-- method بتطبع الـ info وبتحسب الـ grade
+Build a mini project combining Classes, Constructors, and Inheritance.
+
+**Example: Student Management System**
+
+- `Person` class inherited by `Student`
+- Each student has `name`, `age`, `GPA`
+- A method that prints student info and calculates the grade
 
 ---
 
 ## ⚫ Sprint 6 — OOP Part 2
-**المدة:** Week 11–12 | 1 Session توجيهية
 
-### 🎯 Goal
-تكمل الـ OOP بالـ Abstraction والـ Interfaces، وتشتغل مع Collections وGenerics.
+**Duration:** Week 11–12 &nbsp;|&nbsp; 1 Guided Session
 
-### 📚 Topics
-- `abstract` class & methods
-- `interface` — multiple interfaces
+**Goal:** Complete OOP with Abstraction and Interfaces, then work with Collections and Generics.
+
+### Topics
+
+- `abstract` classes & methods
+- `interface` — multiple interface implementation
 - `sealed` keyword
 - `List<T>`
 - `Dictionary<TKey, TValue>`
@@ -165,25 +175,26 @@
 - Generic Methods & Classes
 - Constraints (`where T : IComparable<T>`, `where T : new()`)
 
-### 📝 Mini Project
-> بني mini project بيجمع كل اللي اتعلمته
+### Mini Project
 
-**مثال:** Library System
-- `abstract` class `LibraryItem` بتتوارثها `Book` و `Magazine`
-- Interface `ISearchable` بـ method `Search()`
-- `List<Book>` لتخزين الكتب
-- `Dictionary<string, Book>` للـ search بالـ title
+Build a mini project that brings everything together.
+
+**Example: Library System**
+
+- `abstract` class `LibraryItem` inherited by `Book` and `Magazine`
+- Interface `ISearchable` with a `Search()` method
+- `List<Book>` to store books
+- `Dictionary<string, Book>` to search by title
 
 ---
 
 ## 🛠️ Setup
 
-```
-✅ IDE      : Visual Studio 2022 Community (مجاني)
-              أو VS Code + C# Dev Kit Extension
-✅ .NET SDK : .NET 8 (LTS)
-✅ Practice : w3resource.com/csharp-exercises
-```
+| Tool        | Recommended                                      |
+|-------------|--------------------------------------------------|
+| IDE         | Visual Studio 2022 Community (free) or VS Code + C# Dev Kit Extension |
+| .NET SDK    | .NET 8 (LTS)                                     |
+| Practice    | [w3resource.com/csharp-exercises](https://www.w3resource.com/csharp-exercises/) |
 
 ---
 
@@ -223,13 +234,15 @@
 
 ## 🏆 Milestones
 
-```
-Week 2  ✅ → C# Basics — variables, types, conditions
-Week 4  ✅ → Loops + Arrays done
-Week 6  ✅ → Strings + Functions + Math + Recursion done
-Week 8  ✅ → All w3resource exercises done 🎉
-Week 10 ✅ → OOP Part 1 — Classes, Encapsulation, Inheritance
-Week 12 ✅ → OOP Part 2 — Abstract, Interface, Collections, Generics → Ready for LINQ! 🚀
-``
+| Week    | Milestone                                                                |
+|---------|--------------------------------------------------------------------------|
+| Week 2  | ✅ C# Basics — variables, types, conditions                              |
+| Week 4  | ✅ Loops + Arrays done                                                   |
+| Week 6  | ✅ Strings + Functions + Math + Recursion done                           |
+| Week 8  | ✅ All w3resource exercises completed 🎉                                 |
+| Week 10 | ✅ OOP Part 1 — Classes, Encapsulation, Inheritance                      |
+| Week 12 | ✅ OOP Part 2 — Abstract, Interface, Collections, Generics → Ready for LINQ! 🚀 |
 
-*C# .NET Track — Level 0 | 3 Month Plan*
+---
+
+*C# .NET Track — Level 0 | 3-Month Plan*
